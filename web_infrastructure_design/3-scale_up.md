@@ -35,3 +35,7 @@ This infrastructure design enhances scalability, performance, and reliability by
 * For stable DNS records (e.g., web server or CDN): 12 hours to 1 day.
 * For proxied records in Cloudflare: Default "Auto" setting of 300 seconds (5 minutes).
 ##### Choosing appropriate TTL values involves balancing factors such as cache efficiency, update propagation speed, and query costs.
+
+
+
+https://drive.google.com/file/d/1MnUIYMios9bEEJ1-M7UZlOxOOAD4cQy9/view?usp=sharing

@@ -44,3 +44,6 @@ Monitoring tools collect data through agents installed on servers, log analysis,
 1. SSL Termination at Load Balancer: Terminating SSL at the load balancer level can expose decrypted data within the internal network, potentially compromising security.
 2. Single MySQL Write Server: Having only one MySQL server capable of accepting writes creates a single point of failure for write operations and limits write scalability.
 3. Homogeneous Server Components: Having servers with identical components (database, web server, and application server) can lead to resource contention and makes it difficult to optimize each component independently. It also increases the impact of a single type of failure across the entire infrastructure.
+
+
+https://drive.google.com/file/d/1MnUIYMios9bEEJ1-M7UZlOxOOAD4cQy9/view?usp=sharing

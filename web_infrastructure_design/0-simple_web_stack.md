@@ -43,3 +43,6 @@ The server communicates with users' computers using HTTP/HTTPS protocols, facili
 3. Scalability Limitations: As traffic increases, this single-server setup may struggle to handle multiple simultaneous requests efficiently, leading to slow response times or crashes under heavy load.
 
 #### This simple web infrastructure is effective for small-scale applications but may require enhancements such as load balancing and redundancy for larger deployments.
+
+
+https://drive.google.com/file/d/1MnUIYMios9bEEJ1-M7UZlOxOOAD4cQy9/view?usp=sharing

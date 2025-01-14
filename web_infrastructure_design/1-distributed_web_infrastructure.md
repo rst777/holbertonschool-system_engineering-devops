@@ -36,3 +36,6 @@ The Primary node handles write operations and is the authoritative source of dat
 No firewall: The infrastructure is vulnerable to unauthorized access and potential attacks1.
 No HTTPS: Data transmission is not encrypted, risking data interception.
 3. No Monitoring: Without proper monitoring, it's difficult to detect and respond to performance issues, security threats, or system failures promptly.
+
+
+https://drive.google.com/file/d/1MnUIYMios9bEEJ1-M7UZlOxOOAD4cQy9/view?usp=sharing
